@@ -7,7 +7,7 @@ FrontEnd Developer & React JS Developer
 Experienced in Developing Web-Based Applications using HTML, CSS, JavaScript and JavaScript-based library React JS. Having 1+ years of experience in React JS
 
 * 🌍  I'm based in Bangalore
-* 🖥️  See my portfolio at [here](http://https://www.linkedin.com/in/sanjay-kumar-s-r/)
+* 🖥️  See my portfolio at [here](https://sanjay-sr-portfolio.netlify.app/)
 * ✉️  You can contact me at [kumar.sanjay10998@gmail.com](mailto:kumar.sanjay10998@gmail.com)
 * 🧠  I'm learning Advance Concepts of React JS
 
