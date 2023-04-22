@@ -9,7 +9,6 @@ Experienced in Developing Web-Based Applications using HTML, CSS, JavaScript and
 * 🌍  I'm based in Bangalore
 * 🖥️  See my portfolio at [here](https://sanjay-sr-portfolio.netlify.app/)
 * ✉️  You can contact me at [kumar.sanjay10998@gmail.com](mailto:kumar.sanjay10998@gmail.com)
-* 🧠  I'm learning Advance Concepts of React JS
 
 ### Skills
 
