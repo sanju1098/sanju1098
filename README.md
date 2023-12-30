@@ -1,15 +1,18 @@
 Hi 👋 My name is Sanjay Kumar S R
 =================================
 
-FrontEnd Developer
+Front End Developer
 ---------------------------------------
 
-A Frontend Developer with 2+ Years of Experience.
-Have a solid understanding of Web Development Technologies and best practices, including HTML, CSS, JavaScript and React JS.
-Experienced in building Responsive and Dynamic Web Applications, Optimizing Website Performance and Debugging code issues.
+<p>2.5+ years dedicated to Web Development with a focus on Front-End Technologies — specializing in React, TypeScript, and JavaScript.</p> 
+<p>Proficient in UI libraries like Material UI, Styled Components, and Sass. Skilled in testing frameworks such as Jest, Enzyme, and React Testing Library. </p>
+<br>
+<p>Committed to writing clean, reusable code and ensuring high-performance, visually captivating applications. Devoted to delivering exceptional user experiences while staying updated with the latest industry trends.</p>
 
-* 🖥️  See my portfolio at [here](https://sanjay-sr-portfolio.netlify.app/)
-* ✉️  You can contact me at [kumar.sanjay10998@gmail.com](mailto:kumar.sanjay10998@gmail.com)
+<br>
+
+* 🖥️  See my Portfolio at 👉 [here](https://sanjay-sr-portfolio.netlify.app/)
+* ✉️  MAIL at 👉 [kumar.sanjay10998@gmail.com](mailto:kumar.sanjay10998@gmail.com)
 
 ### Socials
 
