@@ -3,10 +3,8 @@ Hi 👋 My name is Sanjay Kumar S R
 
 Front End Developer
 ---------------------------------------
-
-<p>2.5+ years dedicated to Web Development with a focus on Front-End Technologies — specializing in React, TypeScript, and JavaScript.</p> 
-<p>Proficient in UI libraries like Material UI, Styled Components, and Sass. Skilled in testing frameworks such as Jest, Enzyme, and React Testing Library. </p>
-<br>
+<p>Over the past 2.5+ years, I've immersed myself in Web Development, specializing in Front-End Technologies like React, TypeScript, and JavaScript.</p>
+<p>My expertise extends to UI libraries such as Material UI, Styled Components, and Sass, with a focus on crafting visually appealing and user-friendly interfaces. I'm also skilled in testing frameworks like Jest, Enzyme, and React Testing Library, ensuring the reliability and scalability of applications. </p>
 <p>Committed to writing clean, reusable code and ensuring high-performance, visually captivating applications. Devoted to delivering exceptional user experiences while staying updated with the latest industry trends.</p>
 
 <br>
