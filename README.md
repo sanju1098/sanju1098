@@ -1,8 +1,7 @@
 Hi 👋 My name is Sanjay Kumar
 ====================================================================================================================================
 
-Application Dveloper
---------------------
+<h3>Application Developer || Frontend Developer</h3>
 
 Over the past 2.5+ years, I've immersed myself in Web Development, specializing in Front-End Technologies like React, TypeScript, and JavaScript.
 
