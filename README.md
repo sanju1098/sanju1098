@@ -3,10 +3,10 @@ Hi 👋 My name is Sanjay Kumar
 
 <h3>Application Developer || Frontend Developer</h3>
 
-Over the past 3.6+ years, I've immersed myself in Web Development, specializing in Front-End Technologies like React, TypeScript, and JavaScript.
+Building Dynamic, User-Friendly Web Applications with React.js: Crafting Interactive and Scalable Interfaces for Seamless User Experiences. With 3.6+ Years of Expertise in Front-End Development, Specializing in React, TypeScript, and JavaScript.
 
-* 🖥️  See my portfolio at [Portfolio](https://sanjay-sr-portfolio.netlify.app/)
-* ✉️  You can contact me at [kumar.sanjay101998@gmail.com](mailto:kumar.sanjay101998@gmail.com)
+- 👨‍💻   See my portfolio at [Portfolio](https://sanjay-sr-portfolio.netlify.app/)
+- ✉️  You can contact me at [kumar.sanjay101998@gmail.com](mailto:kumar.sanjay101998@gmail.com)
 
 ⚡  Committed to writing clean, reusable code and ensuring high-performance, visually captivating applications. Devoted to delivering exceptional user experiences while staying updated with the latest industry trends.
 
