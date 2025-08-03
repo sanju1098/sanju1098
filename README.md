@@ -1,9 +1,9 @@
-<h3 align="center">Hi 👋, I'm Sanjay Kumar S R</h3>
-<h5 align="center">Application Developer || Frontend Developer</h5>
+<h1 align="center">Hi 👋, I'm Sanjay Kumar S R</h1>
+<h3 align="center">Senior Application Developer</h3>
 
 ⚡ Building Dynamic, User-Friendly Web Applications with React.js: Crafting Interactive and Scalable Interfaces for Seamless User Experiences. With 4+ Years of Expertise in Front-End Development, Specializing in React, TypeScript, and JavaScript.
 
-- 👨‍💻   See my portfolio at [Portfolio](https://sanjay-portfolio-delta.vercel.app/)
+- 👨‍💻   See my portfolio at [Portfolio](https://sanjay-dev-beta.vercel.app/)
 - ✉️  You can contact me at [kumar.sanjay101998@gmail.com](mailto:kumar.sanjay101998@gmail.com)
 
 ### Languages and Tools:
