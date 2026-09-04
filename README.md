@@ -8,7 +8,7 @@ Building scalable, high-performance web applications with a strong focus on UI a
 <p align="center">
   <a href="mailto:kumar.sanjay101998@gmail.com">📩 Email</a> •
   <a href="https://www.linkedin.com/in/sanjay-kumar-s-r/">💼 LinkedIn</a> •
-  <a href="https://sanjay-dev-beta.vercel.app">🌐 Portfolio</a> •
+  <a href="https://sanjaysr.vercel.app/">🌐 Portfolio</a> •
   <a href="https://github.com/sanju1098">💻 GitHub</a>
 </p>
 
@@ -16,7 +16,7 @@ Building scalable, high-performance web applications with a strong focus on UI a
 
 ## 👨‍💻 About Me
 
-- 🚀 Senior Frontend Engineer with **4+ years of experience**
+- 🚀 Senior Frontend Engineer with **4.5+ years of experience**
 - ⚛️ Specialized in **React.js, Next.js, TypeScript, and scalable UI architecture**
 - 🧩 Strong expertise in **reusable component systems, accessibility, and performance optimization**
 - 🤖 Built **AI-powered applications, real-time chat systems, and document-based RAG solutions**
