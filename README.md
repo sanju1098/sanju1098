@@ -36,20 +36,22 @@ Testing <br/><br/> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio
 
 ---
 
-## 📈 Core Strengths
+<p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sanju1098&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F49760746%3Fu%3Df10a46cec12582d8afd280b5e21dba03c2af5bd0%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=sanju1098&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F49760746%3Fu%3Df10a46cec12582d8afd280b5e21dba03c2af5bd0%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Sanjay Kumar S R GitHub proof metrics" />
+</picture>
+</p>
 
-- ⚡ Performance Optimization
-- 🧱 Reusable Component Libraries
-- ♿ Accessibility (WCAG / NVDA)
-- 🧪 Unit & Integration Testing
-- 📦 Microfrontends
-- 🔄 CI/CD Pipelines
-- 🤖 AI-Powered Interfaces
-- 📱 Responsive UI Systems
+<p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sanju1098&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F49760746%3Fu%3Df10a46cec12582d8afd280b5e21dba03c2af5bd0%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=sanju1098&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F49760746%3Fu%3Df10a46cec12582d8afd280b5e21dba03c2af5bd0%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Sanjay Kumar S R technology stack" />
+</picture>
+</p>
 
 ---
 
-## 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in//sanjay-kumar-s-r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/sanjay-kumar-s-r/" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/Sanjay%20Kumar%20SR" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sanjay%20kumar%20sr" height="30" width="40" /></a>
