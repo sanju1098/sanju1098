@@ -33,28 +33,3 @@ Backend & Database <br/><br/> <img src="https://raw.githubusercontent.com/devico
 Tools & Platforms <br/><br/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 
 Testing <br/><br/> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white" alt="rtl" height="28"/>
-
----
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sanju1098&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F49760746%3Fu%3Df10a46cec12582d8afd280b5e21dba03c2af5bd0%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=sanju1098&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F49760746%3Fu%3Df10a46cec12582d8afd280b5e21dba03c2af5bd0%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Sanjay Kumar S R GitHub proof metrics" />
-</picture>
-</p>
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sanju1098&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F49760746%3Fu%3Df10a46cec12582d8afd280b5e21dba03c2af5bd0%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=sanju1098&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F49760746%3Fu%3Df10a46cec12582d8afd280b5e21dba03c2af5bd0%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Sanjay Kumar S R technology stack" />
-</picture>
-</p>
-
----
-
-<p align="left">
-<a href="https://linkedin.com/in//sanjay-kumar-s-r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/sanjay-kumar-s-r/" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/Sanjay%20Kumar%20SR" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sanjay%20kumar%20sr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sanjay__kumar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="/sanjay__kumar" height="30" width="40" /></a>
-<a href="https://leetcode.com/SanjayKumarSR/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="/sanjaykumarsr/" height="30" width="40" /></a>
-</p>
