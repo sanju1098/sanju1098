@@ -16,7 +16,7 @@ Building scalable, high-performance web applications with a strong focus on UI a
 
 ## 👨‍💻 About Me
 
-- 🚀 Senior Frontend Engineer with **4.5+ years of experience**
+- 🚀 Senior Frontend Engineer with **5+ years of experience**
 - ⚛️ Specialized in **React.js, Next.js, TypeScript, and scalable UI architecture**
 - 🧩 Strong expertise in **reusable component systems, accessibility, and performance optimization**
 - 🤖 Built **AI-powered applications, real-time chat systems, and document-based RAG solutions**
