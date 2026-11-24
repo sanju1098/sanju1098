@@ -6,10 +6,11 @@ Building scalable, high-performance web applications with a strong focus on UI a
 </p>
 
 <p align="center">
+  <a href="https://sanjaysr.vercel.app/">🌐 Portfolio</a> •
   <a href="mailto:kumar.sanjay101998@gmail.com">📩 Email</a> •
   <a href="https://www.linkedin.com/in/sanjay-kumar-s-r/">💼 LinkedIn</a> •
-  <a href="https://sanjaysr.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://github.com/sanju1098">💻 GitHub</a>
+  <a href="https://github.com/sanju1098">💻 GitHub</a> •
+  <a href="https://leetcode.com/u/SanjayKumarSR/">🖥️ LeetCode</a>
 </p>
 
 ---
